@@ -1,0 +1,12 @@
+# jiramanager.rb.gems generated gem export file. Note that any env variable settings will be missing. Append these after using a ';' field separator
+
+bigdecimal -v1.2.4
+bson -v1.10.2
+io-console -v0.4.2
+json -v1.8.1
+minitest -v4.7.5
+mongo -v1.10.2
+psych -v2.0.5
+rake -v10.1.0
+rdoc -v4.1.0
+test-unit -v2.1.2.0
